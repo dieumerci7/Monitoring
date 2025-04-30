@@ -17,6 +17,10 @@ Monitors system metrics and logs, visualized in Grafana.
 8.  Import the Grafana dashboard JSON file.
 9.  Explore the "Monitoring Dashboard".
 
+## Dashboard Screenshot
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 ## Repository Contents
 
 * `docker-compose.yml`: Docker services definition.
